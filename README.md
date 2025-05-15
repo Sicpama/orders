@@ -15,6 +15,12 @@
 ./2_run.sh
 ```
 
+N.B. you may want to change the external post used in the 2_run.sh if you are already using port 3306
+
+![port already in use](portClash.png)
+
+![use different port](changePort.png)
+
 ## Verify database `orders` is running inside the container
 
 ```
